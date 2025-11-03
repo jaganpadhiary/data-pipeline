@@ -1,13 +1,13 @@
 # data-pipeline
-*COMPANY*: CODETECH IT SOLUTIONS
+*COMPANY* : CODETECH IT SOLUTIONS
 
-*NAME*: JAGAN PADHIARY
+*NAME* : JAGAN PADHIARY
 
-*INTERN ID*: CT04DR268
+*INTERN ID* : CT04DR268
 
-*DOMAIN*: DATA SCIENCE
+*DOMAIN* : DATA SCIENCE
 
-*DURATION*: 4 WEEKS
+*DURATION* : 4 WEEKS
 #  Data Pipeline Development
 
 ## Project Overview
@@ -41,4 +41,6 @@ It covers all major preprocessing steps, including:
 
 ##  Project Structure
 <img width="902" height="355" alt="Image" src="https://github.com/user-attachments/assets/95af96da-bc8c-4f44-8347-92f41d4121fb" />
+
+--After cleaned dataset saved as`processed_data.csv` 
 <img width="494" height="122" alt="Image" src="https://github.com/user-attachments/assets/63a224dd-4a39-41e8-b67c-9cfcc18bf941" />
