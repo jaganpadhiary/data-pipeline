@@ -4,7 +4,7 @@
 *INTERN ID*: CT04DR268
 *DOMAIN*: DATA SCIENCE
 *DURATION*: 4 WEEKS
-# 🧩 Data Pipeline Development
+#  Data Pipeline Development
 
 ## Project Overview
 This project demonstrates an **end-to-end data pipeline** built using **Python**, **Pandas**, and **Scikit-learn**.  
@@ -36,4 +36,4 @@ It covers all major preprocessing steps, including:
 ---
 
 ##  Project Structure
-
+<img width="902" height="355" alt="Image" src="https://github.com/user-attachments/assets/95af96da-bc8c-4f44-8347-92f41d4121fb" />
