@@ -8,6 +8,8 @@
 *DOMAIN* : DATA SCIENCE
 
 *DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTOSH KUMAR
 #  Data Pipeline Development
 
 ## Project Overview
