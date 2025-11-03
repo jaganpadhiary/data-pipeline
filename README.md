@@ -47,7 +47,7 @@ Data_Pipeline_Project
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 ### Step 1: Import Libraries
 Essential libraries like Pandas and Scikit-learn are imported for data handling and preprocessing.
